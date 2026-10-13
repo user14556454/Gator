@@ -1,4 +1,4 @@
-#Gator RSS Feed
+# Gator RSS Feed
 
 This is a RSS(really simple syndication) feed project. Copy paste the urls of content websites you want to get updates to build your feed yourself. This is only a backend project that runs on your cli.
 
